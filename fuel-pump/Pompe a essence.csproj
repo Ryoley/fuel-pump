@@ -7,7 +7,7 @@
     <ProjectGuid>{72039DF9-BDB5-4332-ABD2-945FAC68EE80}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Pompe_a_essence</RootNamespace>
-    <AssemblyName>Pompe a essence</AssemblyName>
+    <AssemblyName>fuel-pump</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

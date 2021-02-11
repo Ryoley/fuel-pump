@@ -1,0 +1,11 @@
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\bin\Debug\fuel-pump.exe.config
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\bin\Debug\fuel-pump.exe
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\bin\Debug\fuel-pump.pdb
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\fuel-pump.csprojAssemblyReference.cache
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\Pompe_a_essence.Ecran.resources
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\Pompe_a_essence.Interactions.resources
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\Pompe_a_essence.Properties.Resources.resources
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\fuel-pump.csproj.GenerateResource.cache
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\fuel-pump.csproj.CoreCompileInputs.cache
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\fuel-pump.exe
+C:\Users\chevr\source\repos\fuel-pump\fuel-pump\obj\Debug\fuel-pump.pdb
